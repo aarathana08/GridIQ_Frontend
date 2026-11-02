@@ -3,3 +3,4 @@ flask-cors==5.0.1
 networkx==3.4.2
 
 gunicorn
+scipy
